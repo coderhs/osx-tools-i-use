@@ -10,8 +10,12 @@ VSCode
 
 ## Command Line tools
 
-brew
-zsh
-oh-my-zsh
-starship
-mise
+* brew
+* zsh
+* oh-my-zsh
+* starship
+* mise
+* colima
+* eza
+* ripgrep
+* bat

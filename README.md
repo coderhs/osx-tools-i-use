@@ -2,11 +2,15 @@
 
 This is a list of tools that I use in my mac os laptop. These commands are not limited to osx, but I am documenting it here as I have them on my laptop.
 
+Note: Most of these tools work in linux as well
+
 
 ## Software
 
 Rectangle
 VSCode
+Amphetamine
+Tailscale
 
 ## Command Line tools
 
